@@ -1,0 +1,11 @@
+{
+  "appName": "ReviseFlow v6",
+  "defaultTheme": "dark",
+  "features": {
+    "auth": true,
+    "cloudSync": true,
+    "themeToggle": true,
+    "subjectChecklists": true,
+    "ragTracking": true
+  }
+}

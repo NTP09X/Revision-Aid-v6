@@ -1,0 +1,438 @@
+{
+  "Maths": {
+    "board": "Edexcel Higher",
+    "key_topics": [
+      "Algebra",
+      "Trigonometry",
+      "Graphs",
+      "Probability",
+      "Geometry"
+    ],
+    "websites": [
+      {
+        "label": "Maths Genie",
+        "url": "https://www.mathsgenie.co.uk/"
+      },
+      {
+        "label": "Physics & Maths Tutor",
+        "url": "https://www.physicsandmathstutor.com/maths-revision/"
+      },
+      {
+        "label": "Corbettmaths",
+        "url": "https://corbettmaths.com/"
+      }
+    ],
+    "topics": [
+      "Number basics",
+      "Fractions decimals percentages",
+      "Ratio and proportion",
+      "Standard form and bounds",
+      "Indices and surds",
+      "Linear equations",
+      "Quadratics",
+      "Sequences",
+      "Graphs",
+      "Pythagoras",
+      "Trigonometry",
+      "Area and volume",
+      "Circle theorems",
+      "Probability",
+      "Statistics"
+    ]
+  },
+  "English Literature": {
+    "board": "AQA",
+    "key_topics": [
+      "Macbeth quotes",
+      "An Inspector Calls themes",
+      "Sign of Four characters",
+      "Essay structure",
+      "Poetry comparison"
+    ],
+    "websites": [
+      {
+        "label": "Mr Bruff",
+        "url": "https://www.youtube.com/@mrbruff"
+      },
+      {
+        "label": "BBC Bitesize",
+        "url": "https://www.bbc.co.uk/bitesize/subjects/zr9d7ty"
+      },
+      {
+        "label": "Physics & Maths Tutor",
+        "url": "https://www.physicsandmathstutor.com/english-revision/gcse-aqa/"
+      }
+    ],
+    "english_sets": {
+      "Macbeth": {
+        "themes": [
+          "Ambition",
+          "Power",
+          "Guilt",
+          "The supernatural",
+          "Kingship"
+        ],
+        "characters": [
+          "Macbeth",
+          "Lady Macbeth",
+          "Banquo",
+          "Macduff",
+          "The Witches"
+        ],
+        "quotes": [
+          "Vaulting ambition",
+          "Is this a dagger which I see before me?",
+          "Out, damned spot!",
+          "Look like th' innocent flower",
+          "Unsex me here"
+        ]
+      },
+      "An Inspector Calls": {
+        "themes": [
+          "Responsibility",
+          "Class",
+          "Generational divide",
+          "Gender",
+          "Capitalism vs socialism"
+        ],
+        "characters": [
+          "Inspector Goole",
+          "Sheila",
+          "Mr Birling",
+          "Mrs Birling",
+          "Eric",
+          "Gerald",
+          "Eva Smith"
+        ],
+        "quotes": [
+          "We are members of one body",
+          "Unsinkable, absolutely unsinkable",
+          "Girls of that class",
+          "These girls aren't cheap labour",
+          "You\u2019re pretending everything\u2019s just as it was before"
+        ]
+      },
+      "The Sign of Four": {
+        "themes": [
+          "Justice",
+          "Empire",
+          "Greed",
+          "Friendship",
+          "Mystery"
+        ],
+        "characters": [
+          "Holmes",
+          "Watson",
+          "Mary Morstan",
+          "Jonathan Small",
+          "Thaddeus Sholto"
+        ],
+        "quotes": [
+          "When you have eliminated the impossible",
+          "My mind rebels at stagnation",
+          "The division seems rather unfair",
+          "I confess that I covet your skull",
+          "It is both a curse and a luxury to be alone"
+        ]
+      }
+    },
+    "topics": [
+      "Macbeth plot and themes",
+      "Macbeth quotes",
+      "Macbeth character essays",
+      "An Inspector Calls themes",
+      "An Inspector Calls quotes",
+      "An Inspector Calls character essays",
+      "The Sign of Four themes",
+      "The Sign of Four quotes",
+      "The Sign of Four character essays",
+      "Poetry comparison",
+      "Unseen poetry",
+      "Essay planning"
+    ]
+  },
+  "English Language": {
+    "board": "AQA",
+    "key_topics": [
+      "Paper 1 Q2",
+      "Paper 1 Q3",
+      "Paper 1 Q4",
+      "Paper 2 Q4",
+      "Transactional writing"
+    ],
+    "websites": [
+      {
+        "label": "Mr Everything English",
+        "url": "https://www.youtube.com/@MrEverythingEnglish"
+      },
+      {
+        "label": "BBC Bitesize",
+        "url": "https://www.bbc.co.uk/bitesize/subjects/zr9d7ty"
+      }
+    ],
+    "topics": [
+      "Paper 1 Q1-2",
+      "Paper 1 Q3 structure",
+      "Paper 1 Q4 evaluation",
+      "Paper 1 Q5 descriptive writing",
+      "Paper 2 Q1-2",
+      "Paper 2 Q3 comparison",
+      "Paper 2 Q4 viewpoints",
+      "Paper 2 Q5 article/speech/letter",
+      "Vocabulary and punctuation",
+      "Timing strategy"
+    ]
+  },
+  "Biology": {
+    "board": "AQA Combined Foundation",
+    "key_topics": [
+      "Cells",
+      "Organisation",
+      "Infection and response",
+      "Bioenergetics",
+      "Homeostasis"
+    ],
+    "websites": [
+      {
+        "label": "Cognito",
+        "url": "https://www.youtube.com/@Cognitoedu"
+      },
+      {
+        "label": "FreeScienceLessons",
+        "url": "https://www.youtube.com/@Freesciencelessons"
+      },
+      {
+        "label": "Seneca",
+        "url": "https://app.senecalearning.com/"
+      }
+    ],
+    "topics": [
+      "Cells",
+      "Organisation",
+      "Digestive system and enzymes",
+      "Blood and circulation",
+      "Infection and response",
+      "Photosynthesis",
+      "Respiration",
+      "Homeostasis",
+      "Hormones",
+      "Inheritance variation evolution",
+      "Ecology",
+      "Required practicals"
+    ]
+  },
+  "Chemistry": {
+    "board": "AQA Combined Foundation",
+    "key_topics": [
+      "Atomic structure",
+      "Bonding",
+      "Quantitative chemistry",
+      "Chemical changes",
+      "Rates"
+    ],
+    "websites": [
+      {
+        "label": "Cognito",
+        "url": "https://www.youtube.com/@Cognitoedu"
+      },
+      {
+        "label": "FreeScienceLessons",
+        "url": "https://www.youtube.com/@Freesciencelessons"
+      },
+      {
+        "label": "Seneca",
+        "url": "https://app.senecalearning.com/"
+      }
+    ],
+    "topics": [
+      "Atomic structure",
+      "Periodic table",
+      "Bonding",
+      "Quantitative chemistry",
+      "Chemical changes",
+      "Electrolysis",
+      "Energy changes",
+      "Rates",
+      "Organic chemistry",
+      "Chemical analysis",
+      "Atmosphere",
+      "Using resources",
+      "Required practicals"
+    ]
+  },
+  "Physics": {
+    "board": "AQA Combined Foundation",
+    "key_topics": [
+      "Energy",
+      "Electricity",
+      "Forces",
+      "Waves",
+      "Equations"
+    ],
+    "websites": [
+      {
+        "label": "Cognito",
+        "url": "https://www.youtube.com/@Cognitoedu"
+      },
+      {
+        "label": "FreeScienceLessons",
+        "url": "https://www.youtube.com/@Freesciencelessons"
+      },
+      {
+        "label": "Seneca",
+        "url": "https://app.senecalearning.com/"
+      }
+    ],
+    "topics": [
+      "Energy",
+      "Electricity",
+      "Particle model",
+      "Atomic structure",
+      "Forces",
+      "Motion",
+      "Pressure",
+      "Waves",
+      "EM spectrum",
+      "Magnetism",
+      "Equations",
+      "Required practicals"
+    ]
+  },
+  "History": {
+    "board": "AQA",
+    "key_topics": [
+      "Russia",
+      "Cold War",
+      "Elizabethan England",
+      "Power and the People",
+      "Exam technique"
+    ],
+    "websites": [
+      {
+        "label": "BBC Bitesize",
+        "url": "https://www.bbc.co.uk/bitesize/subjects/zk26n39"
+      },
+      {
+        "label": "Seneca",
+        "url": "https://app.senecalearning.com/"
+      }
+    ],
+    "topics": [
+      "Russia overview",
+      "1905 and 1917 revolutions",
+      "Lenin",
+      "Stalin",
+      "Cold War origins",
+      "Berlin",
+      "Cuba",
+      "D\u00e9tente and end of Cold War",
+      "Elizabethan government and society",
+      "Elizabethan challenges",
+      "Historic environment",
+      "Power and the People overview",
+      "Protest and reform",
+      "Source / interpretation questions"
+    ]
+  },
+  "RS": {
+    "board": "AQA 8062",
+    "key_topics": [
+      "Christianity",
+      "Judaism",
+      "Theme A",
+      "Theme B",
+      "Theme D",
+      "Theme E"
+    ],
+    "websites": [
+      {
+        "label": "The RS Teacher",
+        "url": "https://thersteacher.com/"
+      },
+      {
+        "label": "BBC Bitesize",
+        "url": "https://www.bbc.co.uk/bitesize/subjects/zt6b9j6"
+      }
+    ],
+    "topics": [
+      "Christian beliefs: nature of God and creation",
+      "Christian beliefs: incarnation, crucifixion, resurrection",
+      "Christian beliefs: salvation, sin, afterlife",
+      "Judaism beliefs: covenant and God",
+      "Judaism beliefs: mitzvot, Messiah, afterlife",
+      "Theme A: relationships and families",
+      "Theme B: religion and life",
+      "Theme D: religion, peace and conflict",
+      "Theme E: religion, crime and punishment",
+      "RS key quotes",
+      "12 mark practice"
+    ]
+  },
+  "PE": {
+    "board": "AQA",
+    "key_topics": [
+      "Anatomy and physiology",
+      "Movement analysis",
+      "Physical training",
+      "Sports psychology",
+      "Socio-cultural influences"
+    ],
+    "websites": [
+      {
+        "label": "The EverLearner",
+        "url": "https://theeverlearner.com/"
+      },
+      {
+        "label": "Seneca",
+        "url": "https://app.senecalearning.com/"
+      }
+    ],
+    "topics": [
+      "Skeletal system",
+      "Muscular system",
+      "Cardiovascular and respiratory systems",
+      "Levers planes and axes",
+      "Components of fitness",
+      "Methods of training",
+      "Fitness testing",
+      "Use of data",
+      "Sports psychology",
+      "Socio-cultural influences",
+      "Health fitness wellbeing",
+      "Extended answers"
+    ]
+  },
+  "Music": {
+    "board": "WJEC",
+    "key_topics": [
+      "Solo performance",
+      "Group performance",
+      "Listening AOS1",
+      "Listening AOS2",
+      "Listening AOS3",
+      "Listening AOS4"
+    ],
+    "websites": [
+      {
+        "label": "WJEC Music",
+        "url": "https://www.wjec.co.uk/qualifications/music-gcse/"
+      },
+      {
+        "label": "BBC Bitesize",
+        "url": "https://www.bbc.co.uk/bitesize/subjects/zpf3cdm"
+      }
+    ],
+    "topics": [
+      "Solo performance set list",
+      "Solo performance technique",
+      "Solo performance confidence run",
+      "Group performance rehearsal",
+      "Group performance balance and entries",
+      "Listening: Musical Forms and Devices",
+      "Listening: Music for Ensemble",
+      "Listening: Film Music",
+      "Listening: Popular Music",
+      "Music vocabulary and dictation"
+    ]
+  }
+}
