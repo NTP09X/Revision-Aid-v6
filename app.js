@@ -1,9 +1,10 @@
 
 let schedule={}, resources=[], settings={}, exams={}, subjectsData={};
-let supabase=null, currentUser=null, deferredPrompt=null;
+let supabaseClient = null, currentUser=null, deferredPrompt=null;
 let currentDate=localStorage.getItem("reviseflow_current_date");
 let currentMonth=null, activeTab=localStorage.getItem("reviseflow_active_tab")||"home";
 let currentSubject=null;
+let supabase = null;
 const completed=JSON.parse(localStorage.getItem("reviseflow_completed")||"{}");
 const rag=JSON.parse(localStorage.getItem("reviseflow_rag")||"{}");
 const themeStored=localStorage.getItem("reviseflow_theme")||"dark";
@@ -13,7 +14,12 @@ async function loadData(){
   exams=settings.exams||{};
   document.title=settings.appName||"ReviseFlow v6";
   document.getElementById("appTitle").textContent=settings.appName||"ReviseFlow v6";
-  if(settings.supabaseUrl&&settings.supabaseAnonKey){ supabase=window.supabase.createClient(settings.supabaseUrl, settings.supabaseAnonKey); }
+  if (settings.supabaseUrl && settings.supabaseAnonKey) {
+  supabase = window.supabase.createClient
+    settings.supabaseUrl,
+    settings.supabaseAnonKey
+  );
+} supabase=window.supabase.createClient(settings.supabaseUrl, settings.supabaseAnonKey); }
   const today=new Date().toISOString().slice(0,10);
   if(!currentDate||!schedule[currentDate]) currentDate=schedule[today]?today:settings.startDate;
   currentMonth=currentDate.slice(0,7);
