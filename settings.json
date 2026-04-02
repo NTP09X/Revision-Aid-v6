@@ -1,7 +1,8 @@
 {
   "appName": "ReviseFlow v6",
   "defaultTheme": "dark",
-
+  "startDate": "2026-03-29",
+  "endDate": "2026-06-15",
   "supabaseUrl": "https://rnsjarpswfnekabovcvb.supabase.co",
   "supabaseAnonKey": "sb_publishable_JQcnWZ8NWquCqyOzqXnJqw_0cVbzcLs"
 }
