@@ -21,7 +21,9 @@ async function loadData(){
   );
 } supabase=window.supabase.createClient(settings.supabaseUrl, settings.supabaseAnonKey); }
   const today=new Date().toISOString().slice(0,10);
-  if(!currentDate||!schedule[currentDate]) currentDate=schedule[today]?today:settings.startDate;
+  if (!currentDate || !schedule[currentDate]) {
+  currentDate = schedule[today] ? today : (settings.startDate || today);
+}
   currentMonth=currentDate.slice(0,7);
 }
 function saveLocal(){ localStorage.setItem("reviseflow_completed", JSON.stringify(completed)); localStorage.setItem("reviseflow_rag", JSON.stringify(rag)); localStorage.setItem("reviseflow_current_date", currentDate); localStorage.setItem("reviseflow_active_tab", activeTab); }
